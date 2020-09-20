@@ -1,0 +1,7 @@
+In order to answer to the above question « Which cities are similiar from an artistic offer point of view », I will pick a list of touristic cities around the globe. 
+
+I will then use data from two sources : 
+  -	Foursquare : in order to gather data about museums, art galleries, opera houses, concert halls,  etc for each city in the list.
+  -	Wikipedia (scrapping): 
+        o	area of each city, in order to define  the radius to use to retrieve data from foursquare
+        o	the population of each city, in order to make ratios per capita.
